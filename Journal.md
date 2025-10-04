@@ -1,0 +1,5 @@
+- J'ai créé mon premier dépôt Git sur GitHub
+- J'ai appris à cloner un dépôt en local  
+- J'ai modifié le fichier journal.md et poussé les changements
+- J'ai créé un fichier .gitignore pour ignorer .DS_STORE
+- J'ai finalisé l'introduction à Git en créant un tag
