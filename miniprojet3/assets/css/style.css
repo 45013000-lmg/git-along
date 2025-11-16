@@ -1,0 +1,27 @@
+body {
+  background: #f4f7ff;
+}
+
+.title {
+  color: darkslateblue !important;
+  font-weight: 900;
+}
+
+a {
+  color: #1848cc;
+  text-decoration: underline;
+  font-weight: 500;
+}
+
+a:hover {
+  color: #0a2e99;
+  text-decoration: none;
+}
+
+td:nth-child(2) {
+  word-break: break-all;
+}
+
+tr:hover {
+  background-color: #eef4ff !important;
+}
